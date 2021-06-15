@@ -27,7 +27,7 @@ string libraryTitle = "testtest";
 
 #### line 33 
 ``` C#
-string url = "/sites/TestEmailGroup/testtest/download";
+string url = "/sites/TestEmailGroup/testtest/downloadMe/";
 ```
 
 #### line 43 
