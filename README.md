@@ -9,8 +9,7 @@ C# .NET code for downloading files from SharePoint Online
 
 ### Manual
 <img src="https://github.com/endowp/SharePoint-Downloader/blob/main/image/site_screenshot.jpg" width=70% hight=70%>
-Suppose you want to download all files in the "downloadMe" folder.
-You have to change the code as follows. 
+Suppose you want to download all files in the "downloadMe" folder in "testtest" library, and the SharePoint  Online url is "https:<span></span>//xxxxx.sharepoint.com/sites/TestEmailGroup/testtest/..." You have to change the code as follows. 
 
 #### line 15
 ``` C#
