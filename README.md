@@ -1,7 +1,7 @@
 # SharePoint-Downloader
-C# .NET code for downloading files from SharePoint online
+C# .NET code for downloading files from SharePoint Online
 
-### Required Package
+### Required Packages
 - Microsoft.SharePoint.Client
 - Microsoft.Sharepoint.Client.Online.CSOM
 - Microsoft.SharePoint.Client.Runtime
